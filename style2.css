@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 133%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(My\ Logo.jpg);
+    background-position: fill;
+    background-size: contain;
+    height: 136vh;
+   
+}
+
+.navbar{
+    width: 1300px;
+    height: 50px;
+    margin: auto;
+
+
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+    font-size: bold;
+    
+
+}
+
+.logo{
+    color: rgb(255, 119, 0);
+    font-size: 55px;
+    padding-left: 10px;
+    float: left;
+    padding-top: 10px;
+
+
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+
+}
+
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: bolder;
+    transition: 0.4s ease-in-out;
+    padding-left: 120px;
+    padding-top: 9px;
+    float: right;
+    
+}
+
+ul li a:hover{
+    color: rgb(247, 115, 8);
+}
+
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: rgb(254, 255, 249);
+    position: relative;
+    padding-left: 23px;
+    padding-right: 10px;
+    padding-top: 500px;
+    float: top;
+    float: left;
+    font-size: 40px;
+    
+    
+
+
+}
+
+.content .par{
+    padding-right: 100px;
+    padding-top: 20px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+
+}
+
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 10px;
+    letter-spacing: 2px;
+
+}
+
+.content span{
+    color: rgb(236, 79, 5);
+}
+
+
+
+
+
+
+
+
+
